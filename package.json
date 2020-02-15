@@ -1,0 +1,8 @@
+{
+  "name": "jest-isolatemodule-bug",
+  "version": "1.0.0",
+  "dependencies": {
+    "dotenv-parse-variables": "^0.2.3",
+    "jest": "^25.1.0"
+  }
+}
